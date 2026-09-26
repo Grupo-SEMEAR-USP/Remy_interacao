@@ -1,2 +1,2 @@
-# Remy_visao
-Repositório de visão computacional da Remy
+# Remy_interacao
+Repositório de interação da Remy
