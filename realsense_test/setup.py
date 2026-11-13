@@ -51,6 +51,9 @@ setup(
             #
             # O ROS vai executar a funcao main() localizada em: realsense_test/camera_view.py
             'camera = realsense_test.camera_view:main',
+
+            # ros2 run realsense_test camera_depth
+            'camera_depth = realsense_test.camera_depth:main',
         ],
     },
 )
